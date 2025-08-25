@@ -1,0 +1,16 @@
+{
+  "name": "Dein Mikrobiom-Tracker",
+  "short_name": "Mikrobiom",
+  "description": "Z\u00e4hle jede Woche deine Gem\u00fcsesorten f\u00fcr eine gesunde Darmflora.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf2f8",
+  "theme_color": "#e11d48",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
